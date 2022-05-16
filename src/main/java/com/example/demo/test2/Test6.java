@@ -1,7 +1,7 @@
-package com.example.demo.test6;
+package com.example.demo.test2;
 
 public class Test6 {
     public static void main(String[] args) {
-        System.out.println("test3");
+        System.out.println("test2");
     }
 }
